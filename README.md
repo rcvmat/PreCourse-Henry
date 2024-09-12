@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo 2 del precourse Henry
+Prueba de como crear un repositorio y clonarlo desde hihub a mi compu
